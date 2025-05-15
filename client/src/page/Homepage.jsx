@@ -23,7 +23,7 @@ const Homepage = () => {
   }
 
   if (status === "error") {
-    return <div>Error loading products.</div>;
+    return <div>Error loading products</div>;
   }
 
   return (
