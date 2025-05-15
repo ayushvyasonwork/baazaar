@@ -11,7 +11,7 @@ const Navbars = () => {
         to="/"
         className="text-white text-lg font-bold hover:text-gray-200 transition-colors"
       >
-        Apni Dukan 
+       Baazaar
       </NavLink>
       <NavLink to="/cart" className="flex items-center gap-2">
         <button className="flex items-center gap-2 bg-white text-orange-500 font-semibold py-1 px-4 rounded-full shadow hover:bg-orange-600 hover:text-white transition-all">
